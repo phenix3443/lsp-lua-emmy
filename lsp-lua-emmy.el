@@ -1,7 +1,7 @@
 ;;; lsp-lua-emmy.el --- lsp-mode client for EmmyLua-LS-all.jar -*- lexical-binding: t -*-
 
-;; Author: phenix3443
-;; Maintainer: phenix3443
+;; Author: phenix3443@gmail.com
+;; Maintainer: phenix3443@gmail.com
 ;; Version: 0.1.0
 ;; Package-Requires: ((cl-lib "0.6.1") (lsp-mode "6.0") (emacs "24.4"))
 ;; Homepage: https://github.com/phenix3443/lsp-lua-emmy
