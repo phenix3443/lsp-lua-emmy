@@ -1,4 +1,4 @@
-;;; lsp-lua-emmy.el --- lsp-mode client for EmmyLua-LS-all.jar -*- lexical-binding: t -*-
+;;; lsp-lua-emmy.el --- lsp-mode client for EmmyLua-LanguageServer -*- lexical-binding: t -*-
 
 ;; Author: phenix3443@gmail.com
 ;; Maintainer: phenix3443@gmail.com
